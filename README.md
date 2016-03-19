@@ -31,6 +31,46 @@ Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成�
 
 ![](https://github.com/hongyangAndroid/AndroidAutoLayout/blob/master/autolayout_09.png)
 
+4、android-Ultra-Pull-To-Refresh（一套功能强大，完整的下拉刷新的库，包含各式各样的下拉，支持各种view）
+
+Ultra Pull to Refresh for Android. Support all the views.
+
+项目地址:[android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+
+![](https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437df486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966)
+
+![](https://camo.githubusercontent.com/d3fbe757c87fddc94e998ebdd08ac55956aed1cf/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672e676966)
+
+
+Material Design
+
+![](https://camo.githubusercontent.com/4dfccd5a50f7d59b512300fce341a1217950603a/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6d6174657269616c2d7374796c652e676966)
+
+Supports all of the views: ListView, GridView, ScrollView, FrameLayout, or Even a single TextView.
+![](https://camo.githubusercontent.com/21d883e62e35cfee5c6966037372b807222eeca0/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f636f6e7461696e732d616c6c2d6f662d76696577732e676966)
+
+Supports all of the refresh types.
+
+下拉刷新
+
+![](https://camo.githubusercontent.com/9033435ad82be43ccddc8203450f361ee270c724/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f70756c6c2d746f2d726566726573682e676966)
+
+释放刷新(经典风格)
+
+![](https://camo.githubusercontent.com/921261316db487c69d94db549fb2d17b92e2ecf2/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f72656c656173652d746f2d726566726573682e676966)
+
+刷新时，头部保持(新浪微博)
+
+![](https://camo.githubusercontent.com/afddf7cf464a3c65b78869b199cf1dd449b63b6f/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6b6565702d6865616465722e676966)
+
+刷新时，头部不保持(微信朋友圈)
+
+![](https://camo.githubusercontent.com/5205e85b0271d56adb194b54b130320154dfe3d4/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f686964652d6865616465722e676966)
+
+自动刷新，进入界面时自动刷新
+
+![](https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966)
+
 
 ## 动画篇
 
@@ -84,7 +124,27 @@ For more information please see [the website](http://square.github.io/retrofit/)
 
 项目地址:[retrofit](https://github.com/square/retrofit)
 
-2、
+2、square/okhttp (square公司开源的另一个著名的网络框架)
+
+An HTTP+HTTP/2 client for Android and Java applications.
+
+for more infomation,visit:  http://square.github.io/okhttp/
+
+项目地址:[okhttp](https://github.com/square/okhttp)
+
+3、square/picasso(一个好用的图片框架)
+
+A powerful image downloading and caching library for Android
+
+项目地址:[picasso](https://github.com/square/picasso)
+
+![](https://github.com/square/picasso/blob/master/website/static/sample.png)
+
+For more information please see [the website](http://square.github.io/picasso/)
+
+
+
+
 
 
 

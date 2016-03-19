@@ -72,6 +72,16 @@ Supports all of the refresh types.
 ![](https://camo.githubusercontent.com/88cdf877aa0a1fb19506ecf3404447eba59e68cc/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f6175746f2d726566726573682e676966)
 
 
+5、wasabeef/Blurry(对图片进行模糊处理，毛玻璃效果)
+
+
+项目地址:[Blurry](https://github.com/wasabeef/Blurry)
+
+![](https://github.com/wasabeef/Blurry/blob/master/art/blurry.png)
+
+![](https://github.com/wasabeef/Blurry/blob/master/art/blurry.gif)
+
+
 ## 动画篇
 
 1、AndroidViewAnimations（一个酷炫的第三方动画库）
@@ -111,6 +121,25 @@ Android specific bindings for RxJava.
 This module adds the minimum classes to RxJava that make writing reactive components in Android applications easy and hassle-free. More specifically, it provides a Scheduler that schedules on the main UI thread or any given Handler.
 
 项目地址:[RxAndroid](https://github.com/ReactiveX/RxAndroid)
+
+4、square/leakcanary（检测项目中内存泄露情况，并友好显示的库）
+
+A memory leak detection library for Android and Java.
+
+
+项目地址:[leakcanary](https://github.com/square/leakcanary)
+
+![](https://github.com/square/leakcanary/blob/master/assets/screenshot.png)
+
+5、AndroidProcess(六种判断app是处于前台还是后台的方法)
+
+提供6种方法来判断App处于前台还是后台，并且封装成工具类供大家使用
+
+最后一种方法堪称Android黑科技（非原创），既可以突破Android5.0以上的权限封锁，获取任意前台App的包名，又不需要权限，欢迎大家star我的新项目
+
+项目地址:[AndroidProcess](https://github.com/wenmingvs/AndroidProcess)
+
+
 
 
 

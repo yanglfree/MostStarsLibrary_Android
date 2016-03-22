@@ -187,6 +187,14 @@ For more information please see [the website](http://square.github.io/picasso/)
 
 ![](https://github.com/drakeet/Meizhi/blob/master/screenshots/s0.png)
 
-2、
+2、psaravan/JamsMusicPlayer(一款开源的音乐播放器，原为Google Play上面的付费应用，现已开源，可以用来学习)
+
+项目地址:[JamsMusicPlayer](https://github.com/psaravan/JamsMusicPlayer);
+
+![](https://camo.githubusercontent.com/5a10d39909b2e64053adb49250802d31efe1d3a6/687474703a2f2f692e696d6775722e636f6d2f3268644d467a502e6a7067)
+
+![](https://camo.githubusercontent.com/91bc80a064294979741bfe774d22eaa820fc877a/687474703a2f2f692e696d6775722e636f6d2f74644c694356592e6a7067)
+
+
 
 
